@@ -18,8 +18,6 @@ Graph: Ridgeline Plot of Trip Count per Hour of the Day per Neighborhood
 - Top 2 neighborhood in Bixi usage: Le Plateau-Mont-Royal and Ville-Marie
 - 2 peak period: 7-9 and 16-18 (commuting time)
 
-
-
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/3.png "Optional title")
 
 Graph: Box plot for the number of Bixi trips in Montreal under each weather condition in a given day 
@@ -29,9 +27,31 @@ Graph: Box plot for the number of Bixi trips in Montreal under each weather cond
 - Descriptions of observed weather.e.g.:  broken clouds, thunderstorm, light rain etc.
 
 
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/4.png "Optional title")
+
+Graph: Line chart for the number of Bixi trips in Montreal under different weekly temperature
+
+##### Intuition 
+- Positive correlation between weekly temperature and trip counts   
 
 
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/5.png "Optional title")
 
+Graph: : Line chart for the number of Bixi trips under different Weekly Wind speed
+
+##### Intuition 
+- Negative correlation between weekly wind speed and trip counts   
+
+
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/6.png "Optional title")
+
+Graph: : Line chart for the number of Bixi trips under different Weekly pressure
+##### Intuition 
+- No significant correlation between weekly wind speed and trip counts   
+
+## III.Models and results
+
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/11.png "Optional title")
 
 
 
