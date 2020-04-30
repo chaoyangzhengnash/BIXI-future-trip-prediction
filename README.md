@@ -9,9 +9,30 @@ The primary goal of this project is to establish accurate models that will predi
  
 ## II.exploratory data analysis
 To learn insights towards our dataset, we generated following data visualization:
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/2.PNG "Optional title")
-Ridgeline Plot of Trip Count per Hour of the Day per Neighborhood
-Intuition 
+
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/2.png "Optional title")
+
+Graph: Ridgeline Plot of Trip Count per Hour of the Day per Neighborhood
+
+##### Intuition 
 - Top 2 neighborhood in Bixi usage: Le Plateau-Mont-Royal and Ville-Marie
 - 2 peak period: 7-9 and 16-18 (commuting time)
+
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/3.png "Optional title")
+
+Graph: Box plot for the number of Bixi trips in Montreal under each weather condition in a given day 
+
+##### Intuition 
+- Completed metrics for weather condition. e.g.: Temperature, Wind speed etc(Numerical data)
+- Descriptions of observed weather.e.g.:  broken clouds, thunderstorm, light rain etc.
+
+
+
+
+
+
+
+
+
+
 
