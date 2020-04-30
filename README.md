@@ -1,6 +1,6 @@
 # BIXI-future-trip-predictiond
 The project is implemented by Chaoyang Zheng, Quan Hao and Gabriel Lainesse for master course: Data mining in HEC MONTREAL.
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/1.PNG")
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/1.PNG "Optional title")
 
 ## I. Introduction 
 Currently, more than 1,000 cities around the world have established or plan to establish a bike sharing system, spreading from campus, subway stations and residential areas to commercial center, grand parks and organizations. As a great application of sharing economy and the first large-scale bike sharing system in North America, Bixi Montréal plays an essential role in promoting travel flexibility and transportation efficiency, while also positively impacting the environment and quality of life.   
@@ -9,4 +9,9 @@ The primary goal of this project is to establish accurate models that will predi
  
 ## II.exploratory data analysis
 To learn insights towards our dataset, we generated following data visualization:
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/2.PNG "Optional title")
+Ridgeline Plot of Trip Count per Hour of the Day per Neighborhood
+Intuition 
+- Top 2 neighborhood in Bixi usage: Le Plateau-Mont-Royal and Ville-Marie
+- 2 peak period: 7-9 and 16-18 (commuting time)
 
