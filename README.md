@@ -36,21 +36,21 @@ Graph: Line chart for the number of Bixi trips in Montreal under different weekl
 - Positive correlation between weekly temperature and trip counts   
 
 
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/51.png "Optional title")
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/51.PNG "Optional title")
 
 Graph: : Line chart for the number of Bixi trips under different Weekly Wind speed
 ##### Intuition 
 - Negative correlation between weekly wind speed and trip counts   
 
 
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/5.PNG "Optional title")
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/5.png "Optional title")
 
 Graph: : Line chart for the number of Bixi trips in Montreal under different weekly humidity
 ##### Intuition 
 - Negative correlation between weekly humidity and trip counts (Rainy)   
    
 
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/6.png "Optional title")
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/6.PNG "Optional title")
 
 Graph: : Line chart for the number of Bixi trips under different Weekly Wind speed
 ##### Intuition 
