@@ -30,35 +30,41 @@ Graph: Box plot for the number of Bixi trips in Montreal under each weather cond
 
 
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/4.png "Optional title")
+
 Graph: Line chart for the number of Bixi trips in Montreal under different weekly temperature
 ##### Intuition 
 - Positive correlation between weekly temperature and trip counts   
 
 
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/5.png "Optional title")
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/51.png "Optional title")
+
 Graph: : Line chart for the number of Bixi trips under different Weekly Wind speed
 ##### Intuition 
 - Negative correlation between weekly wind speed and trip counts   
 
 
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/6.PNG "Optional title")
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/5.PNG "Optional title")
+
 Graph: : Line chart for the number of Bixi trips in Montreal under different weekly humidity
 ##### Intuition 
 - Negative correlation between weekly humidity and trip counts (Rainy)   
    
 
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/7.png "Optional title")
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/6.png "Optional title")
+
 Graph: : Line chart for the number of Bixi trips under different Weekly Wind speed
 ##### Intuition 
 - Negative correlation between weekly wind speed and trip counts    
 
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/8.png "Optional title")
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/7.png "Optional title")
+
 Graph: : Line chart for the number of Bixi trips under different Weekly pressure
 ##### Intuition 
 - No significant correlation between weekly wind speed and trip counts   
 
 
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/12.PNG "Optional title")
+
 Graph: : City of Montreal geographical features dataset 
 ##### Intuition 
 -The information on the distribution of each neighborhood 
@@ -70,6 +76,7 @@ To predict the Bixi future trip volume, two regression models, a multiple linear
 Performance metrics are detailed in the table below. All performance metrics were calculated on the test dataset, using the train-test split methodology for a 70% train / 30% test split of the data. 
 
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/13.PNG "Optional title")
+
 Table:  Performance metric
 
 ## Reference
