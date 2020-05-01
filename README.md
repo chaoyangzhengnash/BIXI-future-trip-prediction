@@ -1,4 +1,4 @@
-# BIXI-future-trip-predictiond
+# BIXI-future-trip-prediction
 The project is implemented by Chaoyang Zheng, Quan Hao and Gabriel Lainesse for master course: Data mining in HEC MONTREAL.
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/1.PNG "Optional title")
 
