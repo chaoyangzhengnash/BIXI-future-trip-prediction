@@ -15,12 +15,14 @@ For more detaied information about report, please see "report" folder.
 To learn insights towards our dataset, we generated following data visualization:
 
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/2.png "Optional title")
+
 Graph: Ridgeline Plot of Trip Count per Hour of the Day per Neighborhood
 ##### Intuition 
 - Top 2 neighborhood in Bixi usage: Le Plateau-Mont-Royal and Ville-Marie
 - 2 peak period: 7-9 and 16-18 (commuting time)
 
 ![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/3.png "Optional title")
+
 Graph: Box plot for the number of Bixi trips in Montreal under each weather condition in a given day 
 ##### Intuition 
 - Completed metrics for weather condition. e.g.: Temperature, Wind speed etc(Numerical data)
@@ -45,18 +47,18 @@ Graph: : Line chart for the number of Bixi trips in Montreal under different wee
 - Negative correlation between weekly humidity and trip counts (Rainy)   
    
 
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/7.PNG "Optional title")
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/7.png "Optional title")
 Graph: : Line chart for the number of Bixi trips under different Weekly Wind speed
 ##### Intuition 
 - Negative correlation between weekly wind speed and trip counts    
 
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/8.PNG "Optional title")
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/8.png "Optional title")
 Graph: : Line chart for the number of Bixi trips under different Weekly pressure
 ##### Intuition 
 - No significant correlation between weekly wind speed and trip counts   
 
 
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/12.PNG "Optional title")
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/12.png "Optional title")
 Graph: : City of Montreal geographical features dataset 
 ##### Intuition 
  -The information on the distribution of each neighborhood 
@@ -67,7 +69,7 @@ To predict the Bixi future trip volume, two regression models, a multiple linear
 
 Performance metrics are detailed in the table below. All performance metrics were calculated on the test dataset, using the train-test split methodology for a 70% train / 30% test split of the data. 
 
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/13.PNG "Optional title")
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/BIXI-future-trip-prediction/master/graph/13.png "Optional title")
 Table:  Performance metrics 
 
 ## Reference
